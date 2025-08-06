@@ -8,6 +8,8 @@ A Free Open Source Bitcoin Strategy Framework for treasury companies*
 *All companies will eventually need a Bitcoin Treasury but Bitcoin Treasury Companies exist to outperform Bitcoin
 
 --
+--
+
 Fiat purchasing power is eroding
 
 Bonds have negative real yields
@@ -19,6 +21,8 @@ Real Estate is overpriced
 Index funds barely keep up with M2 inflation
 
 --
+--
+
 
 --> Gold is holding on
 10yr CAGR: 12%
