@@ -4,6 +4,8 @@ Share this work if you enjoy it
 
 Zap me sats if you want - ultrafalcon1@primal.net
 
+.
+.
 
 Fiat purchasing power is eroding
 
@@ -15,6 +17,8 @@ Real Estate is overpriced
 
 Index funds barely keep up with M2 inflation
 
+.
+.
 
 --> Gold is holding on
 10yr CAGR: 12%
