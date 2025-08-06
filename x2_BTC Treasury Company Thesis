@@ -15,10 +15,25 @@ Assumptions:
 
 
 --
-Validation:
+Academic decomposition:
+
+Paper: CCOUNTING FOR THE PERFORMANCE OF MICROSTRATEGY First decomposition
+Authors: YVES CHOUEIFATY, TRISTAN FROIDURE, AXEL CABROL. TOBAM, MARCH 2025
+
+Summary:
+
+Decomposition of the performance of MicroStrategy into three sources: 
+1. Bitcoin Yield
+2. Performance of Bitcoin to which it has an exposure that grows with its Bitcoin Yield
+3. Variations in its Bitcoin Price Premium.
+
+
+---
+Real World Validation:
 
 Since 2020, MSTR has grown over 1989%, outperforming Bitcoins 3.2x and even Nvidia’s 1,165% gain
 
 This validates the thesis within a bullish sentiment. 
 
 Inclusion in the NASDAQ 100 in 2024 further validates with capital flows entering from passive index funds. 
+
