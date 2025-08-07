@@ -1,1 +1,84 @@
+**Bitcoin Denominated Convertible Bond**
+
+Innovated by The Smarter Web Company & named "Smarter Convert", this is a creative way to raise money without paying interest.
+
+Unique element: denominated in btc, not fiat. Bonds value is tied to btc but share conversion price stays fixed in fiat.
+
+--
+DETAILS
+
+Conversion option: Investors can swap their bonds for shares at a 5% premium to current share price
+
+Forced conversion (FC): After 6 months, if the share price climbs to 50% above conversion price for 10 days, company can force convert to shares instead of cash
+
+Repayment: If investors don't convert within 12 months, company pays back 98% of the bonds value in bitcoin*
+
+*Repayment amount depends on the price of bitcoin. Higher btc value = higher repayment. Lower btc value = lower repayment
+
+*If btc goes up or down, company obligation in btc terms doesnt change, already has btc in reserve
+
+-
+Scenario modeling
+
+Worst case: share price stays low, after 12 months the company pays back 98% of the bitcoin invested (2% to cover costs)
+
+Best case: share price goes up, investors choose conversion option or are forced to convert if FC conditions met
+
+In best case, the company raises money at a higher price, issuing fewer new shares vs normal stock sale (less dilution of current shareholders)
+
+-
+Impact on the company
+
+News shares: If all bonds convert into shares, new shares will be issued
+
+BTC holdings: company adds more btc to treasury
+
+-
+Why its relevant
+
+Bitcoin based bond is a novel idea
+
+Win-win design: investors get protection if things don't work out, company raises at a premium if things do work out
+
+Bitcoin tether: Both sides benefit (or lose) based on the fiat price of btc.
+
+Smart and safe for investors, novel way to fund growth
+
+An innovative way to blend tradfi and Bitfi
+
+--
+--
+
+--> WHY?
+
+Zero risk for company
+
+Win-win architecture: investors get protection if price doesn't go up, company raises at a premium if things work out
+
+Less dilutive to current shareholders vs. normal stock sale
+
+By making bond denominated in btc, investors are:
+- Buying btc exposure for 12 months
+- Getting upside company exposure with minimal downside risk
+
+
+--> HOW?
+
+Investors offer fiat funding to company, converted immediately into btc for the treasury
+
+If the bond converts, investors receive new shares at a 5% premium
+
+Better than equity raise becaiuse it's at a premium above the market close price
+
+Accretive to shareholders if convert price is at mNAV premium (ideally >3)
+
+
+--> WHAT?
+
+A convertible bond^1 denominated in btc^2
+
+
+1: investors can convert their investment into company shares instead of getting cash back)
+2: If the bond doesn't convert, company returns 98% of the btc they got from converting investment amount into bitcoin
+
 
