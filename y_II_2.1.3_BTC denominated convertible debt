@@ -1,13 +1,13 @@
-**Bitcoin Denominated Convertible Bond**
+**Bitcoin Denominated Convertible Note**
 
 Innovated by The Smarter Web Company & named "Smarter Convert", this is a creative way to raise money without paying interest.
 
-Unique element: denominated in btc, not fiat. Bonds value is tied to btc but share conversion price stays fixed in fiat.
+Unique element: denominated in btc, not fiat. Note value is tied to btc but share conversion price stays fixed in fiat.
 
 --
 DETAILS
 
-Conversion option: Investors can swap their bonds for shares at a 5% premium to current share price
+Conversion option: Investors can swap their note for shares at a 5% premium to current share price
 
 Forced conversion (FC): After 6 months, if the share price climbs to 50% above conversion price for 10 days, company can force convert to shares instead of cash
 
@@ -29,14 +29,14 @@ In best case, the company raises money at a higher price, issuing fewer new shar
 -
 Impact on the company
 
-News shares: If all bonds convert into shares, new shares will be issued
+News shares: If all notes convert into shares, new shares will be issued
 
 BTC holdings: company adds more btc to treasury
 
 -
 Why its relevant
 
-Bitcoin based bond is a novel idea
+Bitcoin based note is a novel idea
 
 Win-win design: investors get protection if things don't work out, company raises at a premium if things do work out
 
@@ -53,11 +53,17 @@ An innovative way to blend tradfi and Bitfi
 
 Zero risk for company
 
+Avoidance of fiat debt - removes risk if btc price falls
+
+Traditional fiat-based notes encourage shorting of stock + collection of coupons
+
+Bitcoin based notes eliminate fiat exposure, no coupon and removal of shorting incentive
+
 Win-win architecture: investors get protection if price doesn't go up, company raises at a premium if things work out
 
 Less dilutive to current shareholders vs. normal stock sale
 
-By making bond denominated in btc, investors are:
+By denominating note in btc, investors are:
 - Buying btc exposure for 12 months
 - Getting upside company exposure with minimal downside risk
 
@@ -66,7 +72,7 @@ By making bond denominated in btc, investors are:
 
 Investors offer fiat funding to company, converted immediately into btc for the treasury
 
-If the bond converts, investors receive new shares at a 5% premium
+If the note converts, investors receive new shares at a 5% premium
 
 Better than equity raise becaiuse it's at a premium above the market close price
 
@@ -75,10 +81,24 @@ Accretive to shareholders if convert price is at mNAV premium (ideally >3)
 
 --> WHAT?
 
-A convertible bond^1 denominated in btc^2
+A convertible note^1 denominated in btc^2
 
+BTC exposure with downside protection
 
-1: investors can convert their investment into company shares instead of getting cash back)
-2: If the bond doesn't convert, company returns 98% of the btc they got from converting investment amount into bitcoin
+1: investors can convert their investment into company shares instead of getting cash back
+2: If the note doesn't convert, company returns 98% of the btc they got from converting investment amount into bitcoin
 
+--> TARGET INVESTOR:
 
+- Bitcoin focused investors
+- Institutional investors interested in Bitcoin who desire lower risk vs pure equity
+- HNW individuals who understand and want to invest in the Bitcoin treasury model
+
+**Added benefit: brokers can present 2 products to investors: equity and convertible note
+
+---
+---
+Resources used:
+- https://x.com/ourgoodlifeuk/status/1952977154997645339?s=46&t=gzkShUalw6mg6SWxgo-BiQ
+- https://x.com/zynxbtc/status/1953051567973658987?s=46&t=gzkShUalw6mg6SWxgo-BiQ
+- https://x.com/itstoghrul/status/1953186878636868065?s=46&t=gzkShUalw6mg6SWxgo-BiQ
