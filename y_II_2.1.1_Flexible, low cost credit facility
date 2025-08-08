@@ -1,0 +1,51 @@
+Logic: Fundamental advantage of btc treasury corps is access to cheap credit
+
+Being able to access cheap debt is the foundational arbitrage opportunity that fuels the ability to trade at a premium to NAV
+
+--
+
+Structure: Establish a low interest rate credit facility with a reputable banking partner. 
+
+Benefits: Cash available for weekly baseload DCA, opportunistic purchases and to meet debt obligations.
+
+-> Tradeoff evaluation: secured vs unsecured
+
+Secured: less risk to borrower, lower interest rate on the loan. Requires conservative use of credit with utility limits and LTV constraints (20-50%?)
+- Mechanism: secured with bitcoin purchased with credit facility. Funds held in a segregated vault, lender is senior on the vault in case of liquidation
+- Risk: btc draws down, must be liquidated to repay loan at a loss
+- Risk mitigation: Flexible, intelligent terms with 4+ year time horizon. btc draw down enables more btc acquired with weekly DCA
+
+Unsecured: more risk to borrower, higher interest rate on the loan, reduced arbitrage opportunity
+
+
+Action: Engage investment banks to assess availability and terms of credit facility
+
+--
+Modelling for small treasury corp
+
+$4.2m secured facility that scales as the value of treasury expands
+
+Assumptions: 6% annual interest rate (1.5% applied per quarter), 50% annual growth of bitcoin (11% per quarter), initial btc price of $160,000 cad, $21,000 weekly DCA
+
+Year 1:
+Q1 - $273,000 credit, 1.71 btc acquired
+Q2 - $550,000 credit, 1.54 btc acquired
+Q3 - $831,250 credit, 1.38 btc acquired
+Q4 - $1,116,718 credit, 1.25 btc acquired
+
+--> After 1 year
+Credit owing: $1,133,468
+Btc held: 5.88
+Price of btc: $240,000
+Value of btc: $1,411,200
+Net gain: $277,732
+
+LTV: 34%
+Credit facility utility: 27%
+
+Year 2: 
+
+Year 3: 
+
+
+
