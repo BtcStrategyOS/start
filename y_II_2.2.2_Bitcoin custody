@@ -1,0 +1,21 @@
+Custody strategy: 
+
+Vault architecture:
+- Intstitutional grade multisig sub zero vault
+- Insured holdings against theft/loss
+- Bitcoin sent directly to vault after purchase
+- Multiple approval required for transactions (Multiple institutions)
+- Run a company node to verify all transactions
+- UTXO formatting considered
+
+Evaluate reputable enterprise grade custodians like Anchorwatch & OnRamp as potential custody partners
+
+Study proof of reserves as a transparency mechanism. Initiate conversation with Hoseku as verification partner
+
+Engage and announce custody partner, proof of reserves partner
+
+Design purchase protocol: bank account -> exchange -> routing wallet (UTXO formatting) -> vault -> verification of vault balance
+
+
+Resource: 
+- Block open source sub zero vault architecture
