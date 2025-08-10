@@ -2,6 +2,7 @@ Custody strategy:
 
 Vault architecture:
 - Intstitutional grade multisig sub zero vault
+- Keys held in different non-cooperating legal jurisdictions to maximize seizure resistance
 - Insured holdings against theft/loss
 - Bitcoin sent directly to vault after purchase
 - Multiple approval required for transactions (Multiple institutions)
@@ -9,6 +10,7 @@ Vault architecture:
 - UTXO formatting considered
 
 Evaluate reputable enterprise grade custodians like Anchorwatch & OnRamp as potential custody partners
+(Multi-jurisdictional multi-institution custody architecture is the gold standard)
 
 Study proof of reserves as a transparency mechanism. Initiate conversation with Hoseku as verification partner
 
