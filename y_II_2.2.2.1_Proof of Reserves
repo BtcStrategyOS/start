@@ -1,11 +1,40 @@
+DON'T TRUST, VERIFY
+
+Proof of Reserves research
+
 --> Proof of Reserves
+- A process used by companies to cryptographically and transparently verify that they hold the full amount of bitcoin they claim to possess
+- Leverages transparency of the Bitcoin ledger to confirm wallet balances
+- Distinct from traditional financial audits because it offers publicly verifiable evidence of asset ownership, rather than solely relying on accounting records
 
-Why does it matter?
 
-How is it best done?
+-> Why does it matter?
+- Demonstrates to shareholders and the public that the company actually holds the bitcoin it claims to own
+- Trust & credibility: assurance that the holdings are real and not misrepresented
+- Market confidence and protection against rumours or questioning the integrity of the balance sheet
 
-What are the tradeoffs
 
-What protocol mitigates the most risk?
+-> How is it best done?
+- Cryptographic attestation using Merkle tree based proofs which verify reserves without revealing sensitive wallet details
+- Employ digital signatures to prove control over Bitcoin addresses
+- Quarterly POR attestation with timestamped blockchain data
 
-What is expected of a company?
+
+--> What are the tradeoffs?
+- Balancing the need for transparency with the need to protect sensitive information and assets
+- Transparency benefits: builds trust, prevents stock price volatility from rumours or uncertainty, regulatory compliance
+- Transparency risks: Privacy exposure (hacking risks or reveal of strategic moves), social engineering risks, operational complexity
+- Balance of tradeoffs: partial disclosure with merkle tree roots or hashed wallet addresses to prove reserves without revealing full addresses
+- Goal: minimize security risks while enabling verification
+
+
+
+--> Conclusion
+- PoR is a vital tool for a publicly traded Bitcoi treasury company to establish trust and maintain market confidence
+- Competitive advantage to be first in doing PoR in a market. Demonstrates leadership, alignment with Bitcoin ethos of "don't trust, verify"
+
+ACTION:
+- Contact Hoseki as PoR partner to evaluate service offering
+
+
+
