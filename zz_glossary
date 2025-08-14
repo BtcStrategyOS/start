@@ -22,6 +22,8 @@ GLOSSARY
 - Insight: Common stock issuance is accretive only when the premium is high (>3 is a reasonable threshold)
 - Insight: Preferreds create high torque witout requiring large equity premium (see torque library resource for logic) 
 
+- Summary: BTC Torque reframes capital raising as a compounding engine rather than a one off dilution event 
+
 BTC $ value = BTC $ gain + BTC $ income (cumulative value generation. Total value created from treasury operations)
 BTC income = unrealized gain on the specific btc financed, minus financing costs, multiplied by an efficiency factor
 mNAV = Enterprise value / BTC NAV (this is the "premium to NAV")
