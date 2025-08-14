@@ -11,3 +11,17 @@ GLOSSARY
 --> P/BYD (P-bid)
 
 --> Proof of reserves
+
+
+--> BTC torque (aka torque)
+- Torque = BTC $ value divided by BTC Capital
+- It's the return on invested capital (ROIC) for a Bitcoin Treasury
+- Higher torque means every dollar raised to buy bitcoin produces many more dollars of btc value over time
+- Said differently, BTC torque is how much btc $ value each invested dollar creates
+- Insight: with common stock funding, torque only rises when equity trades at a premium.
+- Insight: Common stock issuance is accretive only when the premium is high (>3 is a reasonable threshold)
+- Insight: Preferreds create high torque witout requiring large equity premium (see torque library resource for logic) 
+
+BTC $ value = BTC $ gain + BTC $ income (cumulative value generation. Total value created from treasury operations)
+BTC income = unrealized gain on the specific btc financed, minus financing costs, multiplied by an efficiency factor
+mNAV = Enterprise value / BTC NAV (this is the "premium to NAV")
