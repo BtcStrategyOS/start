@@ -14,8 +14,7 @@ Hypothesis: The first company in each major market to reach orbit will be very h
 - Stratosphere (12-50km): 
 - Mesosphere (50-85km): 
 - Thermosphere (85-600km):
-- Exosphere
-- Orbit
+- Orbit: steady state with fine tuning
 
 --
 RAW:
@@ -53,6 +52,10 @@ Mesosphere:
 Thermosphere:
 - >5,000 btc (>$1b at $200k cad btc price)
 - Orbital insertion
+
+Orbit:
+- Steady state with fine tuning adjustment
+- Capital magnet
 
 --
 - Troposphere is the hardest due to high atmospheric density which causes drag and heating
